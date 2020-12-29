@@ -60,10 +60,9 @@ namespace kurcekme
                     lblMesaj.Text = "Hepsiburada " + (trendyol - hepsiburada) + " TL daha kazançlı";
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-
-                throw;
+                lblMesaj.Text = "Error : " + ex.Message;
             }
         }
 
