@@ -1,5 +1,4 @@
-# PullingDataFromWebSite
-Pulling Data From Web Site
+# Pulling Data From Web Site
 
 - xml document
 - html (path) document
