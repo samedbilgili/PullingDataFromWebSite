@@ -1,4 +1,4 @@
-# Pulling Data From Web Site
+# Pulling Data From Web Site (Siteden Veri Çekme c#)
 
-- xml document
-- html (path) document
+- xml document (xml den veri okuma)
+- html (path) document (site html den path vererek veri çekme)
